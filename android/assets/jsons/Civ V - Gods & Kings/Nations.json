@@ -1,44 +1,44 @@
 [
-	//Spectator
-    //Not "Excluded from map editor" as it serves as placeholder for "Any Civ" starting locations
+	//Radar
+    //not "Excluded from map editor" can be not on Staring Loactions
 	{
-		"name": "Spectator",
+		"name": "Radar",
 		"outerColor": [255,255,255]
-//		"innerColor": [255,255,255]
+//		"innerColor": [0,0,0]
 	},
 
 	{
 		//nations
-		"name": "Babylon",
-		"leaderName": "Nebuchadnezzar II",
-		"adjective": ["Babylonian"],
+		"name": "Dragon",
+		"leaderName": "Dyrvug",
+		"adjective": ["Dragon"],
 		"startBias": ["Avoid [Tundra]"],
-		"preferredVictoryType": "Scientific",
-		"personality": "Nebuchadnezzar II",
+		"preferredVictoryType": "Domination",
+		"personality": "Dragon",
 
-		"startIntroPart1": "May the gods bless you, great Nebuchadnezzar, ruler of ancient Babylon! Built 5000 years ago, Babylon emerged as an empire in 1800 BC, thanks to godlike Hammurabi, The Giver of Law. Falling under the Kassites assaults then the Assyrian domination, Babylon was reborn from its ashes, gaining back its independance, and became the beacon for Arts and Learning in the ancient world. O Nebuchadnezzar, after your death, Babylon quickly fell, conquered by the mighty Persians, and then by the Greeks, until the great city disappeared forever in 141 BC.",
-		"startIntroPart2": "Great Nebuchadnezzar, Babylon's glory still lives through you and your people. Will you create a spark to enlighten the world again? Will your new empire shine through the ages of history?",
+		"startIntroPart1": "Greetings my lord, I've foreseen a Loming War and Conflict on the Horizion, I've Adivised you to not to be so Rash, and to be Geetle on Foregn Adiffars, be Wise Follow Dragon you're the Shining Becaon of Peace in a time of War.",
+		"startIntroPart2": "so Great Dyrvug, of the House of Rampus, will you be at War or be at Time of Peace.",
 
-		"declaringWar": "The demon wants the blood of soldiers!",
-		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"declaringWar": "so my Follow Army, Attack!",
+		"attacked": "you are Mistaken for my Preflunce for Peace so Now, you shoul face the Wrath of the Whole EMPIRE !",
+		"defeated": "the War is over, and I've Lost, the Country hass Fallen, However I Shall Return!",
+		"introduction": "Hello, I'm Emperor Dyrvug of the Great Dragon Empire, For my Presence I Grant you my Greadatude...",
 
-		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
+		"neutralHello": "Greetings Fellow, I can offer Anything.",
+		"hateHello": "for whom is my Enemy, I've can sill Offer a Chance for You're and my Country.",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "It seems you whant a to trade.",
 
 		"outerColor": [27,53,63],
 		"innerColor": [213,249,255],
-		"favoredReligion": "Islam",
-		"uniqueName": "Ingenuity",
-		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
-		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
-			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
-			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
-			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
-        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+		"favoredReligion": "Dovah",
+		"uniqueName": "Land of the Great Dragons",
+		"uniques": ["Tribal Dragon [Replaces Warrior] Dragon Spearman [ Replaces Spearman] Dragon Swordman [Replaces Swordman] Spiked Bowman [Replaces Archer] Volcanic Launcher [Replaces Catapult] Dragon Pikeman [Replaces Pikeman] Dragon Millita [ Replaces Musketman] Dragon Line Solider [Replaaces Rifleman] Dragon Fire Cannon [replaces Cannon] Dragon Heavy Gun[Replaces Gatling Gun] Dragon Charger [Replaces Lancer] Dragon Light Tank [Replaces Landship] Dragon Heavy Tank [ Replaces Modern Armor] [Start with Minning] all Units have the Dragon Promation (Units Do 5% More Damage) (Dragon Empire Units Only) (Regt Promation Allows 2 Millitary Units on the Same Tile with a 10% Tile Penttlty reuqures Shock III or Drill III) (Breg Promantion allows 3 on same tile with a 20% Tile Penttlty Reuiqures Regt Promantion) Division Promanation Allows 4 Millitary Units on the Same Tile with a 40% tile Penttlty Requres Breg Promantion)."],
+		"cities": ["Yone","Drega","Fort Clawz","Dragos","Feng","Soul","Drega-Feng","Clawer","Drago'ne","Drah",
+			"Zas","Hornz","Fengua","Xena","Volz","Ashur","Hashnar","Lava-Feng","Camarsh","Salabard",
+			"Solarash","lava-cap","volzni","volavi","drosenani Sharu","scar","harsh","dyru","hegz","wara",
+			"kash","daraiyt","firestromz","lavaz","ashston-lavzi","zar","droz","feng-drega","ashston","Drega-volz"],
+        "spyNames": ["Xathos", "Bremo", "Jazian", "Assantanth", "Lamre", "Pyrro", "soni", "gophu", "Qagyly", "Moda"]
 	},
     {
 		"name": "Greece",
